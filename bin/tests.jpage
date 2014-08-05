@@ -1,0 +1,2 @@
+Line l = new Line(new Dimension(2,0), new Dimension(4,20));
+l.generatePointArray();
